@@ -1,4 +1,5 @@
 # Perceptron
+This project illustrates the capeabilities of the perceptron, which can be used for classification. The perceptron can only classify linearly separable datasets, this is illustrated by the first plot, where the error for learning the OR gate quickly goes down to 0, while the error of the XOR gate remains constant. The second plot illustrates the perceptron learning a more complicated pattern.
 
 ### Output
 The output of the perceptrion is given by the following equatoin where mu specifies a pattern, Theta is the Heavy Side Function, w is the weights, x is the inout and b is a threshod. The Heavy Side function is necessairy to produce a binary output.
